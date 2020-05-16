@@ -1,0 +1,7 @@
+{
+    "name": "Auto Scale",
+    "author": "Matthias Pabel",
+    "version": "1.0.0",
+    "description": "Extension that scales models on import.",
+    "supported_sdk_versions": ["7.1.0"]
+}
